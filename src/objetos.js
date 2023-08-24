@@ -45,16 +45,16 @@
 // }
 // exibirCor();    // chamamos a função para exibir o conteúdo da variável
 
+//criando objeto
+// let pessoa = {
 
-let pessoa = {
+//      nome: "Adilson",
+//      idade: "23",
+//      cidade: "São Paulo",
 
-     nome: "Adilson",
-     idade: "23",
-     cidade: "São Paulo",
+// cadastro() {
+//     return console.log(`o ${this.nome} tem ${this.idade} anos e mora em ${this.cidade}`)
+// }
+// }
 
-cadastro() {
-    return console.log(`o ${this.nome} tem ${this.idade} anos e mora em ${this.cidade}`)
-}
-}
-
-pessoa.cadastro();
+// pessoa.cadastro();
